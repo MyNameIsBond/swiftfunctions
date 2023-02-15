@@ -14,6 +14,7 @@
 		97A1298B299D406900475D3F /* FunctionsSwiftcourseTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97A1298A299D406900475D3F /* FunctionsSwiftcourseTests.swift */; };
 		97A12995299D406900475D3F /* FunctionsSwiftcourseUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97A12994299D406900475D3F /* FunctionsSwiftcourseUITests.swift */; };
 		97A12997299D406900475D3F /* FunctionsSwiftcourseUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97A12996299D406900475D3F /* FunctionsSwiftcourseUITestsLaunchTests.swift */; };
+		97A129A4299D40A200475D3F /* SumFunction.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97A129A3299D40A200475D3F /* SumFunction.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		97A12990299D406900475D3F /* FunctionsSwiftcourseUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FunctionsSwiftcourseUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		97A12994299D406900475D3F /* FunctionsSwiftcourseUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FunctionsSwiftcourseUITests.swift; sourceTree = "<group>"; };
 		97A12996299D406900475D3F /* FunctionsSwiftcourseUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FunctionsSwiftcourseUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		97A129A3299D40A200475D3F /* SumFunction.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SumFunction.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				97A1297C299D406900475D3F /* Assets.xcassets */,
 				97A12981299D406900475D3F /* FunctionsSwiftcourse.entitlements */,
 				97A1297E299D406900475D3F /* Preview Content */,
+				97A129A3299D40A200475D3F /* SumFunction.swift */,
 			);
 			path = FunctionsSwiftcourse;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 			files = (
 				97A1297B299D406700475D3F /* ContentView.swift in Sources */,
 				97A12979299D406700475D3F /* FunctionsSwiftcourseApp.swift in Sources */,
+				97A129A4299D40A200475D3F /* SumFunction.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
