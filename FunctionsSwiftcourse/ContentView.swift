@@ -7,11 +7,13 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-//        SumFunction()
-//        SumArray()
-//          FuncReverse()
+//      SumFunction()
+//      SumArray()
+//      FuncReverse()
 //      RemoveVowels()
-      RemoveWordWithA()
+//      RemoveWordWithA()
+//      RemoveOddInts()
+      PalindromeWord()
       
     }
 }
