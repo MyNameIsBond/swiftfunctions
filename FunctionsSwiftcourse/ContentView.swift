@@ -10,7 +10,8 @@ struct ContentView: View {
 //        SumFunction()
 //        SumArray()
 //          FuncReverse()
-      RemoveVowels()
+//      RemoveVowels()
+      RemoveWordWithA()
       
     }
 }

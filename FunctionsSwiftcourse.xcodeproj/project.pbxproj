@@ -18,6 +18,7 @@
 		97A6D2A7299E43EC00ED2578 /* SumArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97A6D2A6299E43EC00ED2578 /* SumArray.swift */; };
 		97A6D2A9299E46C500ED2578 /* FuncReverse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97A6D2A8299E46C500ED2578 /* FuncReverse.swift */; };
 		97A6D2AB299E4F1900ED2578 /* RemoveVowels.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97A6D2AA299E4F1900ED2578 /* RemoveVowels.swift */; };
+		97F7024A299E5842006F1B73 /* RemoveWordWithA.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97F70249299E5842006F1B73 /* RemoveWordWithA.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		97A6D2A6299E43EC00ED2578 /* SumArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SumArray.swift; sourceTree = "<group>"; };
 		97A6D2A8299E46C500ED2578 /* FuncReverse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FuncReverse.swift; sourceTree = "<group>"; };
 		97A6D2AA299E4F1900ED2578 /* RemoveVowels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveVowels.swift; sourceTree = "<group>"; };
+		97F70249299E5842006F1B73 /* RemoveWordWithA.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveWordWithA.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 				97A6D2A6299E43EC00ED2578 /* SumArray.swift */,
 				97A6D2A8299E46C500ED2578 /* FuncReverse.swift */,
 				97A6D2AA299E4F1900ED2578 /* RemoveVowels.swift */,
+				97F70249299E5842006F1B73 /* RemoveWordWithA.swift */,
 			);
 			path = FunctionsSwiftcourse;
 			sourceTree = "<group>";
@@ -277,6 +280,7 @@
 				97A6D2AB299E4F1900ED2578 /* RemoveVowels.swift in Sources */,
 				97A6D2A7299E43EC00ED2578 /* SumArray.swift in Sources */,
 				97A129A4299D40A200475D3F /* SumFunction.swift in Sources */,
+				97F7024A299E5842006F1B73 /* RemoveWordWithA.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

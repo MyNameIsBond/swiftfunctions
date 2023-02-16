@@ -20,7 +20,7 @@ struct RemoveVowels: View {
 
 func VowelsCounter(str: String) -> Int {
   var newStr = str
-  var consts: Set<Character> = ["b", "c", "d", "f", "g", "h", "j", "k", "l", "m", "n", "p", "q", "r", "s", "t", "v", "x", "z", "w", "y"]
+  let consts: Set<Character> = ["b", "c", "d", "f", "g", "h", "j", "k", "l", "m", "n", "p", "q", "r", "s", "t", "v", "x", "z", "w", "y"]
    newStr.removeAll(where: { consts.contains($0) })
   return newStr.count
 }
