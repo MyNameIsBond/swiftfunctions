@@ -16,6 +16,7 @@
 		97A12997299D406900475D3F /* FunctionsSwiftcourseUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97A12996299D406900475D3F /* FunctionsSwiftcourseUITestsLaunchTests.swift */; };
 		97A129A4299D40A200475D3F /* SumFunction.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97A129A3299D40A200475D3F /* SumFunction.swift */; };
 		97A6D2A7299E43EC00ED2578 /* SumArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97A6D2A6299E43EC00ED2578 /* SumArray.swift */; };
+		97A6D2A9299E46C500ED2578 /* FuncReverse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97A6D2A8299E46C500ED2578 /* FuncReverse.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		97A12996299D406900475D3F /* FunctionsSwiftcourseUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FunctionsSwiftcourseUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		97A129A3299D40A200475D3F /* SumFunction.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SumFunction.swift; sourceTree = "<group>"; };
 		97A6D2A6299E43EC00ED2578 /* SumArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SumArray.swift; sourceTree = "<group>"; };
+		97A6D2A8299E46C500ED2578 /* FuncReverse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FuncReverse.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				97A1297E299D406900475D3F /* Preview Content */,
 				97A129A3299D40A200475D3F /* SumFunction.swift */,
 				97A6D2A6299E43EC00ED2578 /* SumArray.swift */,
+				97A6D2A8299E46C500ED2578 /* FuncReverse.swift */,
 			);
 			path = FunctionsSwiftcourse;
 			sourceTree = "<group>";
@@ -265,6 +268,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				97A6D2A9299E46C500ED2578 /* FuncReverse.swift in Sources */,
 				97A1297B299D406700475D3F /* ContentView.swift in Sources */,
 				97A12979299D406700475D3F /* FunctionsSwiftcourseApp.swift in Sources */,
 				97A6D2A7299E43EC00ED2578 /* SumArray.swift in Sources */,
