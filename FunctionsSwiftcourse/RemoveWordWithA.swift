@@ -2,8 +2,6 @@
 //  RemoveWordWithA.swift
 //  FunctionsSwiftcourse
 //
-//  Created by Tony Chaidinis on 16/02/2023.
-//
 
 import SwiftUI
 
@@ -22,7 +20,7 @@ struct RemoveWordWithA: View {
 
 func removeWordFromA(arr: [String]) -> [String] {
   var err = arr
-  err.removeAll(where: { Array($0)[0] == "a" ||  Array($0)[0] == "A"})
+  err.removeAll(where: { Array($0)[0].lowercased() == "a"})
   return err
 }
 
