@@ -14,7 +14,7 @@ struct SumFunction: View {
       TextField("Give me two numbers seperated with plus + ", text: $text)
       Text("The sum \(numSum)")
       Button("Add two numbers") {
-        var e = text.components(separatedBy: "+")
+        let e = text.components(separatedBy: "+")
         numSum = sum(number1: Int(e[0])!, number2: Int(e[1])!)
       }
     }
