@@ -13,7 +13,8 @@ struct ContentView: View {
 //      RemoveVowels()
 //      RemoveWordWithA()
 //      RemoveOddInts()
-      PalindromeWord()
+//      PalindromeWord()
+      DublicateIntArrays()
       
     }
 }

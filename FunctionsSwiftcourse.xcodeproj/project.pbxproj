@@ -21,6 +21,7 @@
 		97F7024A299E5842006F1B73 /* RemoveWordWithA.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97F70249299E5842006F1B73 /* RemoveWordWithA.swift */; };
 		97F7024C299E63A0006F1B73 /* RemoveOddInts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97F7024B299E63A0006F1B73 /* RemoveOddInts.swift */; };
 		97F7024E299E70A6006F1B73 /* PalindromeWord.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97F7024D299E70A6006F1B73 /* PalindromeWord.swift */; };
+		97F70250299E8F80006F1B73 /* DublicateIntArrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97F7024F299E8F80006F1B73 /* DublicateIntArrays.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -59,6 +60,7 @@
 		97F70249299E5842006F1B73 /* RemoveWordWithA.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveWordWithA.swift; sourceTree = "<group>"; };
 		97F7024B299E63A0006F1B73 /* RemoveOddInts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveOddInts.swift; sourceTree = "<group>"; };
 		97F7024D299E70A6006F1B73 /* PalindromeWord.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PalindromeWord.swift; sourceTree = "<group>"; };
+		97F7024F299E8F80006F1B73 /* DublicateIntArrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DublicateIntArrays.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -121,6 +123,7 @@
 				97F70249299E5842006F1B73 /* RemoveWordWithA.swift */,
 				97F7024B299E63A0006F1B73 /* RemoveOddInts.swift */,
 				97F7024D299E70A6006F1B73 /* PalindromeWord.swift */,
+				97F7024F299E8F80006F1B73 /* DublicateIntArrays.swift */,
 			);
 			path = FunctionsSwiftcourse;
 			sourceTree = "<group>";
@@ -285,6 +288,7 @@
 				97A1297B299D406700475D3F /* ContentView.swift in Sources */,
 				97A12979299D406700475D3F /* FunctionsSwiftcourseApp.swift in Sources */,
 				97A6D2AB299E4F1900ED2578 /* RemoveVowels.swift in Sources */,
+				97F70250299E8F80006F1B73 /* DublicateIntArrays.swift in Sources */,
 				97A6D2A7299E43EC00ED2578 /* SumArray.swift in Sources */,
 				97A129A4299D40A200475D3F /* SumFunction.swift in Sources */,
 				97F7024A299E5842006F1B73 /* RemoveWordWithA.swift in Sources */,
