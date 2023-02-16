@@ -2,8 +2,7 @@
 //  DuplicateIntArrays.swift
 //  FunctionsSwiftcourse
 //
-//  Created by Tony Chaidinis on 16/02/2023.
-//
+
 
 import SwiftUI
 

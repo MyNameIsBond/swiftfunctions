@@ -14,7 +14,8 @@ struct ContentView: View {
 //      RemoveWordWithA()
 //      RemoveOddInts()
 //      PalindromeWord()
-      DublicateIntArrays()
+//      DublicateIntArrays()
+        CountChar()
       
     }
 }

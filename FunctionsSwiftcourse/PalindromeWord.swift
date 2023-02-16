@@ -19,7 +19,7 @@ struct PalindromeWord: View {
 }
 
 func isPalindrome(str: String) -> Bool {
-  var myStr = str
+  let myStr = str
   if myStr.lowercased() == String(myStr.reversed()).lowercased() {
     return true
   } else {
