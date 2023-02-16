@@ -9,7 +9,8 @@ struct ContentView: View {
     var body: some View {
 //        SumFunction()
 //        SumArray()
-          FuncReverse()
+//          FuncReverse()
+      RemoveVowels()
       
     }
 }
