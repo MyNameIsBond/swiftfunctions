@@ -20,7 +20,7 @@ struct DublicateIntArrays: View {
 
 func dublicateArray(arr1: [Int], arr2: [Int]) -> [Int] {
   var myArr1 = arr1
-  var myArr2 = arr2
+  let myArr2 = arr2
   myArr1.removeAll(where: { !myArr2.contains($0) })
   return myArr1
   
